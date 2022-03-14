@@ -16,10 +16,18 @@ Scientists to Study:(Watch Biography, etc)
 
 	Barbara Liskov
 
-	Tim Berners-Lee
+	Tim BernersLee
 
 	Donald Knuth 
 
 	James Gosling
 
 	Ken Thompson
+	
+    Ada Lovelace
+    Backus
+    Claude Shannon
+    Donald Knuth
+    Edsger W. Dijkstra
+    Ray Kurzweil
+    Peter Norvig
