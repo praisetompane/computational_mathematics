@@ -1,3 +1,0 @@
-1. Why does it exist?
-2. What problem is it solving?
-3. What does it need to work?
